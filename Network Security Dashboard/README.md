@@ -23,7 +23,7 @@ Informational options: using the action bars at the top section, select FAQ butt
 To deploy the new workbook into your Microsoft Defender for Cloud console, click on *Deploy to Azure* for Azure Public cloud or *Deploy to Azure Gov* for government cloud.
 During the deployment, you must select a subscription and resource group to store the report. Once the workbook is successfully deployed, however to Security Center to start using it.
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/pagopa/azure-workbooks/main/Network%20Security%20Dashboard/armTemplate.json?token=GHSAT0AAAAAABUA5HBKDBUNGGU5KKDSHDKGY2D4M6Q" target="_blank"><img src="https://aka.ms/deploytoazurebutton"/></a>
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com/pagopa/azure-workbooks%2Fmain%2FNetwork%20Security%20Dashboard%2FarmTemplate.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton"/></a>
 
 ### Upcoming changes
 
