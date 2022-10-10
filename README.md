@@ -7,5 +7,9 @@ A collection of azure workbooks suggested by Microsoft
 1. [Network Security Dashboard](https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main/Workbooks/Network%20Security%20Dashboard)
 1. [Locations](https://raw.githubusercontent.com/pagopa/azure-workbooks/main/workbooks/Locations/workbook.json)
 
+## Well Architected Framework - Reliability
+
+1. [Reliability recommendations](https://raw.githubusercontent.com/pagopa/azure-workbooks/main/workbooks/Reliability%20recommendations/workbook.json)
+
 ## Other interesting collections:
 1. https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main/Workbooks
