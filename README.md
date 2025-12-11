@@ -13,3 +13,21 @@ A collection of azure workbooks suggested by Microsoft
 
 ## Other interesting collections:
 1. https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main/Workbooks
+
+---
+## Repository Structure & Details (Auto-generated)
+
+### Scopo
+Collezione di workbook operativi per Azure Monitor (security, reliability, locations) da importare negli ambienti target, accelerando l’osservabilità standard.
+
+### Cartelle
+- `workbooks/<categoria>/`: JSON dei workbook per area (Security, Reliability, Locations) strutturati per dominio funzionale.
+
+### Script
+Nessuno.
+
+### Workflow
+Nessuno.
+
+### Note
+Import manuale o via ARM/Portal; nessuna automazione integrata.
